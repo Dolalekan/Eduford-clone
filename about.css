@@ -1,0 +1,74 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+}
+section{
+  background-image:url(Services.png);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:cover;
+  height:350px;
+}
+#container{
+  display:flex;
+  justify-content:space-evenly;
+  padding:0.5px;
+  margin-top:20px;
+}
+
+
+.HOME{
+  width:75px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+}
+.services{
+  width:110px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+    
+}   
+.about{
+  width:85px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+}
+.logo{
+  width:90px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:anton;
+}
+.reece{
+  font-weight:bold;
+  font-size:45px;
+  color:white;
+  font-family:roboto;
+  width:280px;
+  margin-left:45px;
+  text-align:center;
+}
+.james{
+  height:80px;
+  width:280px;
+  background-color:transparent;
+  color:#ff9f00;
+  text-align:center;
+  margin-left:42px;
+  font-size:20px;
+  font-weight:bold;
+}

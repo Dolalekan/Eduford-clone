@@ -1,0 +1,284 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+  
+  background-position:cover;
+  background-size:cover;
+  background-repeat:no-repeat;
+ 
+}
+section{
+  background-image:url(image.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  height:600px;
+}
+#container{
+  display:flex;
+  justify-content:space-evenly;
+  padding:2px;
+  margin-top:20px;
+}
+#section two{
+  background-color:#ffffd4;
+  background-size:300px;
+  border-radius:40px;
+  
+}
+.yolo{
+  background-color:#ffd7ec;
+  height:80px;
+}
+.response{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-direction:column;
+  background-color:
+  
+}
+.comrade{
+  background-color:#ffd7ec;
+  width:320px;
+  border-radius:40px;
+  height:400px;
+}
+.itunu{
+  width:170px;
+  border-radius:25px;
+  margin-right:42px;
+  margin-left:65px;
+  margin-top:23px;
+}
+.itunuspeech{
+  font-size:20px;
+  color:rgba(0,0,0,.77);
+  text-align:center;
+  width:300px;
+  line-height:25px;
+  font-family:roboto;
+  margin-bottom:10px;
+}
+.man{
+  width:170px;
+  border-radius:40px;
+  margin-left:65px;
+  margin-right:42px;
+  margin-top:23px;
+}
+.mayyah{
+  background-color:#ffffd4;
+  width:320px;
+  border-radius:40px;
+  height:400px;
+}
+.mayyahspeech{
+  font-size:20px;
+  color:rgba(0,0,0,.77);
+  text-align:center;
+  width:300px;
+  line-height:25px;
+  font-family:roboto;
+  margin-bottom
+}
+.baby{
+  width:170px;
+  border-radius:25px;
+  margin-left:62px;
+  margin-right:42px;
+  margin-top:23px;
+  
+  
+}
+.note{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:80px;
+  margin-left:100px;
+  margin-right:100px;
+  color:#9c8080;
+  font-size:35px;
+  font-family:joan;
+  
+}
+.big{
+  width:400px;
+  font-size:22px;
+  color:#591a23;
+  text-align:center;
+  font-family:amatic SC;
+  margin-bottom:-40px;
+  line-height:25px;
+  
+}
+.feedback{
+  font-family:cairo;
+  color:#9c8080;
+  text-align:center;
+  font-size:35px;
+  
+}
+.imageseven{
+  width:290px;
+  margin-left:40px;
+  border-radius:18px;
+}
+.imagefive{
+ width:290px;
+  margin-left:40px;
+  border-radius:18px;
+}
+.imagesix{
+  width:290px;
+  margin-left:37px;
+  border-radius:15px;
+  position:relative;
+}
+.fujifilm{
+  text-align:center;
+  font-size:40px;
+  
+}
+.camon{
+  font-size:40px;
+  text-align:center;
+}
+.nikon{
+  text-align:center;
+  font-size:40px;
+}
+.imageeight{
+  width:300px;
+  margin-left:40px;
+  border-radius:15px;
+}
+.home{
+  width:75px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+}
+.services{
+  width:110px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+    
+}   
+.about{
+  width:85px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:pacifico;
+}
+.logo{
+  width:90px;
+  color:#ff9f00;
+  border:none;
+  font-weight:bold;
+  font-size:18px;
+  font-family:anton;
+}
+.main{
+  background-color:#ffd7ec;
+  width:320px;
+  border-radius:40px;
+  height:400px;
+}
+.lekanspeech{
+  font-size:20px;
+  color:rgba(0,0,13,.77);
+  text-align:center;
+  width:300px;
+  line-height:25px;
+  font-family:roboto;
+  margin-bottom:10px;
+}
+.our{
+  font-size:40px;
+  
+  color:rgba(0,0,13,.77);
+  font-family:lato;
+  text-align:center;
+  margin-right:15px;
+}
+.lorem{
+  color:#2f2f2f;
+  font-family:taviraj;
+  text-align:center;
+  width:300px;
+  margin-left:40px;
+}
+.fujifilm{
+  font-size:28px;
+  color:#3c3c3c;
+  
+}
+.fuji{
+ font-size:18px;
+  color:black;
+  font-family:cairo;
+  width:370px;
+  line-height:25px;
+  text-align:center;
+  margin-bottom:-30px;
+}
+.nikon{
+  font-size:28px;
+  color:#3c3c3c;
+}
+.camon{
+  font-size:28px;
+  color:#3c3c3c;
+}
+.camera{
+  font-size:18px;
+  color:black;
+  font-family:cairo;
+  width:370px;
+  line-height:25px;
+  text-align:center;
+  margin-bottom:-
+}
+.nikonspeech{
+  font-size:18px;
+  color:black;
+  font-family:cairo;
+  width:370px;
+  line-height:25px;
+  text-align:center;
+  margin-bottom:-
+}
+
+.we{
+  text-align:center;
+  font-weight:bolder;
+  font-size:25px;
+}
+.ipsum{
+  width:220px;
+  line-height:27px;
+  font-size:18px;
+  margin-left:90px;
+  font-family:roboto;
+  color:#5a5a5a;
+  
+}
+.made{
+  font-size:10px;
+  font-weight:medium;
+  font-style:italic;
+  text-align:center;
+  color:#6d69ff;
+}
